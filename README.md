@@ -24,35 +24,21 @@ Carol Ngari
 *[Authors Info](#Authors-Info)
 
 
-
-
-
-
 ## Description
 This document will detail about myself, background information, skills, experiences, educaation and contact information of kipkemoi elvis rono
 
-[LIVE PROJECT LINK](to be added)
+
+## Demo
+
+To access the site, click [here] (https://carolinengari.github.io/portfolio/)
 
 
+#### **Project setup & collaboration**
 
-
-## Installation
-
-To access the site, open your browser and put in the link URL.
-
-
-## Requirements
-
-Web browser
-
-
-## Installation Requirements
-
-* Either a computer, phone,tablet or an Ipad
-
-* Access to the Internet
-
-* Updated version of your browser
+To get a local copy up of this project, Clone the repo: <br>
+From the parent folder, **portfolio**, you can open *index.html* on your browser <br>
+Collaborate on this project by forking this repository to your github, clone it and create a new branch to make changes on, then push the changes to your remote repository <br>
+>[git clone] (https://github.com/carolinengari/portfolio.git)
 
 
 ## Technology Used
@@ -76,7 +62,7 @@ https://materializecss.com/
 
 
 ## Authors Info
-LinkedIn - [Caroline Ngari](https://www.linkedin.com/in/elvis-rono-aa3548209/)
+LinkedIn - [Caroline Ngari](https://www.linkedin.com/in/caroline-ngari-450459125/)
 
 caroline.ngari@student.moringaschool.com
 
