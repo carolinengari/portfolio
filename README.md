@@ -1,5 +1,5 @@
 ## MY PORTFOLIO
-A way to showcase my
+A way to showcase my work and dev profile 
 
 Carol Ngari
 
